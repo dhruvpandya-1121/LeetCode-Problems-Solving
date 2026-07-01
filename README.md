@@ -17,6 +17,7 @@ First Repo
 | [0875-koko-eating-bananas](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ First Repo
 | ------- |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
 | ------- |
