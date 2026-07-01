@@ -14,6 +14,7 @@ First Repo
 | [0435-non-overlapping-intervals](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
 | [0773-sliding-puzzle](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0773-sliding-puzzle) |
+| [0875-koko-eating-bananas](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 ## Hash Table
@@ -48,6 +49,7 @@ First Repo
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
