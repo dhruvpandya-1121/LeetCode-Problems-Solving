@@ -13,6 +13,7 @@ First Repo
 | [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
+| [0773-sliding-puzzle](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0773-sliding-puzzle) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 ## Hash Table
@@ -31,6 +32,7 @@ First Repo
 | [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0509-fibonacci-number) |
+| [0773-sliding-puzzle](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0773-sliding-puzzle) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +41,7 @@ First Repo
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0509-fibonacci-number) |
+| [0773-sliding-puzzle](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0773-sliding-puzzle) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,10 +93,12 @@ First Repo
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
+| [0773-sliding-puzzle](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0773-sliding-puzzle) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0051-n-queens) |
+| [0773-sliding-puzzle](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0773-sliding-puzzle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +111,8 @@ First Repo
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
