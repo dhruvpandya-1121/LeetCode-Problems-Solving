@@ -24,6 +24,7 @@ First Repo
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ First Repo
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
