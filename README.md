@@ -9,6 +9,7 @@ First Repo
 | [0001-two-sum](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
@@ -25,6 +26,7 @@ First Repo
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -79,4 +81,8 @@ First Repo
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
