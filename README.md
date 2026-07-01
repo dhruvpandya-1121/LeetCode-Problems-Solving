@@ -10,6 +10,7 @@ First Repo
 | [0053-maximum-subarray](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
@@ -27,6 +28,7 @@ First Repo
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -50,6 +52,7 @@ First Repo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 ## Counting
@@ -80,6 +83,7 @@ First Repo
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 ## Breadth-First Search
 |  |
