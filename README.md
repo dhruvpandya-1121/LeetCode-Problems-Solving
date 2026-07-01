@@ -11,6 +11,7 @@ First Repo
 | [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ First Repo
 | ------- |
 | [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 ## Counting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ First Repo
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 ## Merge Sort
 |  |
 | ------- |
@@ -72,4 +75,8 @@ First Repo
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/1383-maximum-performance-of-a-team) |
 <!---LeetCode Topics End-->
