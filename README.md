@@ -7,11 +7,13 @@ First Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,16 @@ First Repo
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
