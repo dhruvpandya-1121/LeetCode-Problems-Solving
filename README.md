@@ -7,6 +7,7 @@ First Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
@@ -89,4 +90,8 @@ First Repo
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
