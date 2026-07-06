@@ -137,4 +137,20 @@ First Repo
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvpandya-1121/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
